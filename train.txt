@@ -1,3 +1,4 @@
+file_path
 /ejemplo/dataset/imagen0.jpg
 /ejemplo/dataset/imagen1.jpg
 /ejemplo/dataset/imagen2.jpg
